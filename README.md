@@ -1,1 +1,1 @@
-### Welcome to my github profile👋👋👋👋
+Experience and skills in self-study and independent research as well as teamwork. Having background knowledge as a Software Engineer, self-studying in the field of Deep learning in image processing and classification. In the future, I aim to be an AI Engineer - Research Scientist who can adapt to domestic, onsite, or foreign jobs.
