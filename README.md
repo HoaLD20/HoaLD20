@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HoaLD20</h1>
-Experience and skills in self-study and independent research as well as teamwork. Having background knowledge as a Software Engineer, self-studying in the field of Deep learning in image processing and classification. In the future, I aim to be Software Engineer who can adapt to domestic, onsite, or foreign jobs.
+<p align="center">Experience and skills in self-study and independent research as well as teamwork. Having background knowledge as a Software Engineer, self-studying in the field of Deep learning in image processing and classification. In the future, I aim to be Software Engineer who can adapt to domestic, onsite, or foreign jobs. </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HoaLD20" alt="HoaLD20" /></a> </p>
 <p align="left">
 </p>
