@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm HoaLD20</h1>
-<h3 align="center">A passionate AL developer from Viet Nam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoald20&label=Profile%20views&color=0e75b6&style=flat" alt="hoald20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HoaLD20&label=Profile%20views&color=0e75b6&style=flat" alt="HoaLD20" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoald20" alt="hoald20" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HoaLD20" alt="HoaLD20" /></a> </p>
 <p align="left">
 </p>
 
